@@ -1,0 +1,97 @@
+.homeBody {
+    height: auto;
+    padding-bottom: 10rem; 
+}
+
+.homeBody h1{
+    text-align: center;
+    margin: 4rem;
+}
+
+.citem {
+    min-height: 30rem;
+    min-width: 20rem;
+    position: relative;
+    margin: var(--carouselCompMargin);
+    border-radius: 2rem;
+}
+
+.citem img{
+    object-fit: cover;
+    position: absolute;
+    width: 100%;
+    height: 80%;
+    border-radius: 2rem;
+    pointer-events: none;
+}
+
+.shadowCnt{
+    position: absolute;
+    height: 80%;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 30%, rgba(222,222,222,0) 100%);
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
+
+.placeCnt{
+    position: absolute;
+    height: 40%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    /* background-color: aqua; */
+}
+
+.placeCnt div{
+    position: relative;
+    height: 60%;
+    width: 100%;
+}
+
+.placeCnt h3{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: aliceblue;
+    text-align: center;
+    margin: 0;
+    top: 40%;
+    transform: translateY (0%);
+}
+
+.placeCnt a{
+    color: aliceblue;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+.innerCarousel{
+    display: flex;
+    width: auto;
+}
+
+.carousel{
+    cursor: grab;
+    overflow: hidden;
+}
+
+.cSubtitle {
+    font-size: 1.5rem;
+    margin: 2rem;
+}
+
+.cDesc {
+    position: relative;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}

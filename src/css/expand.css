@@ -1,0 +1,31 @@
+.exploreScreen {
+    position: fixed;
+    height: 100vh;
+    /* margin-bottom: var(--barMargin); */
+    left: 0;
+    right: 0;
+    background-color: rgb(232, 228, 218);
+}
+
+.exploreScreen-active {
+    /* transform: translateY(20em); */
+    
+    transform: translateY(0em);
+
+    transition: all 1s;
+}
+
+.exploreScreen-deactive {
+    
+    transform: translateY(calc(100vh - var(--barMargin)));
+
+    transition: all 1s;
+}
+
+@keyframes slide-bar-in {
+    100% {
+        /* bottom: - var(--barMargin); */
+        /* bottom: -100vh; */
+        transform: translateY(90vh);
+    }
+}

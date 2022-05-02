@@ -1,0 +1,95 @@
+.barScreen {
+    display: flex;
+    margin: auto;
+    height: 100%;
+    background-color: blanchedalmond;
+    height: var(--barPop);
+}
+
+.barScreen h1 {
+    text-align: center;
+    margin: auto;
+}
+
+.rightCnt, .centerCnt, .leftCnt {
+    /* min-width: 2em; */
+    height: 100%;
+    /* background-color: brown; */
+    flex-grow: 1;
+}
+
+.centerCnt {
+    margin: auto;
+    text-align: center;
+    width: auto;
+    height: auto;
+    align-self: center;
+}
+
+.rightCnt, .leftCnt {
+    display: flex;
+    flex-grow: 2;
+}
+
+.expBtn {
+    position: relative;
+    background-color: burlywood;
+    height: 80%;
+    margin: auto;
+    margin-left: 2px;
+    margin-right: 2px;
+    flex-grow: 1;
+}
+
+.searchBox {
+    flex-grow: 3;
+}
+
+.expBtn a{
+    position: absolute;
+    text-decoration: none;
+    color: #fefefe;
+    background-color: #768da3;
+    border-radius: 25px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+    text-align: center;
+    
+    top: 50%;
+    right: 2rem;
+    transform: translate(0%, -50%);
+    margin: 0;
+}
+
+.tempData {
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    height: 100%;
+    align-items: center;
+}
+
+.tempData div{
+    /* height: 70%;
+    width: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+    background-color: #768da3;
+    border-radius: 2rem; */
+    color: #fefefe;
+}
+
+.tempData p {
+    margin: 0;
+    padding: 0.5rem;
+    background-color: brown;
+    border-radius: 2rem;
+}
+
+.expTempData{
+    width: 80%;
+    height: 100%;
+    /* background-color: aliceblue; */
+}

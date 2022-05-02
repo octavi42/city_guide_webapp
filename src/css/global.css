@@ -1,0 +1,62 @@
+:root {
+    --barPop: 8vh;
+    --barMargin: var(--barPop);
+    --carouselCompMargin: 1rem;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.map {
+    height: 100vh;
+    width: 100vw;
+}
+
+.map-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: var(--barPop);
+    background-color: rgb(226, 156, 64);
+}
+
+.map-element {
+    width: 100%;
+    height: 100%;
+}
+
+
+.fade-enter {
+    opacity: 0;
+    z-index: 1;
+}
+
+.fade-enter.fade-enter-active {
+    opacity: 1;
+    transition: opacity 250ms ease-in;
+}
+
+.infoW{
+    height: 4em;
+}
+
+.infoWTitle {
+    margin: 2rem;
+    text-align: center;
+}
+
+.infoWLink {
+    text-decoration: none;
+    text-align: center;
+    color: chocolate;
+    text-align: end;
+    margin: 2rem;
+}
+
+.infoWLink p {
+    text-align: center;
+}

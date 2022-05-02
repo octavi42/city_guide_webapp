@@ -1,0 +1,220 @@
+{
+    "posts": [{
+        "id": 1,
+        "title": "Cetatea Sighisoara",
+        "description": "Cetatea Sighișoara este centrul istoric vechi al municipiului Sighișoara, județul Mureș, România. Construit în secolul XII de coloniștii sași sub denumirea latină Castrum Sex și păstrat în mod aproape neschimbat până astăzi, ea este locuită și în prezent. În 1999 cetatea a fost înscrisă pe lista patrimoniului cultural mondial UNESCO. Cetatea este amplasată pe malul sudic al râului Târnava Mare, pe o coastă de deal lungă de 850 m, pe două terase: terasa de jos, Dealul Cetății, se află la o altitudine de 350 m p.n.m (ca. 30 m mai sus de Orașul de Jos), iar terasa de sus, Dealul Școlii, la o altitudine de 429 m (ca 49 m mai sus de terasa de jos).",
+        "position": {
+            "lat": 46.21970744437953,
+            "long": 24.792280215266267
+        },
+        "mainImg": "https://lh5.googleusercontent.com/p/AF1QipN6qRahhjryO8Trhkk_klMhefZK6-7MuvVp50l8=w408-h544-k-no",
+        "images": ["https://lh5.googleusercontent.com/p/AF1QipN6qRahhjryO8Trhkk_klMhefZK6-7MuvVp50l8=w408-h544-k-no"]
+    }, {
+        "id": 2,
+        "title": "Turnul cu Ceas",
+        "description": "Simbol al Sighișoarei, este unul dintre principalele puncte de interes ale orașului, ceasul cu figurine fiind unicat în spațiul românesc. Cele șapte figurine din lemn de tei reprezintă zilele săptămânii, sub întruchipări din mitologie și simboluri din astronomie, astrologie și alchimie: duminica este un personaj feminin, cu o coroană de raze aurii și simbolizează aurul; lunea este zeița Lunii, Diana, zeița vânătorii, și simbolizează argintul; marțea este zeul Marte al războiului, simbolul de deasupra capului este al fierului și reprezintă semnul zodiacal al Berbecului; miercurea este zeul Mercur al comerțului, iar simbolul de deasupra capului reprezintă mercurul; joia este zeul Jupiter, zeu al fulgerelor, iar simbolul de deasupra capului reprezintă cositorul; vinerea este zeița Venus, a frumuseții și dragostei, iar simbolul de deasupra capului reprezintă cuprul; sâmbăta este zeul Saturn al fertilității, iar simbolul de deasupra capului reprezintă plumbul. Cele patru turnuleţe care îi încununează acoperişul erau semnele autonomiei jurisdicţionale a oraşului care, prin Sfatul său, putea aplica pedeapsa capitală. Era un drept de autoritate şi de prestigiu de care nu dispuneau decât oraşele importante ale Transilvaniei. Turnul are pe vârf o sferă aurită, din cupru, care conține copii după diverse documente vechi ale sașilor din cetate, și care la 100 de ani se îmbogățește cu documente contemporane, funcționând precum o „capsulă a timpului”, după cum îi spun localnicii.",
+        "position": {
+            "lat": 46.21943939086334,
+            "long": 24.793327835611997
+        },
+        "mainImg": "http://sighisoaraonline.com/content/wp-content/uploads/2017/04/20170407_193507-01-1600x1200.jpeg"
+    },{
+        "id": 3,
+        "title": "Turnul Cositorarilor",
+        "description": "Turnul Cositorarilor, împreună cu Turnul cu ceas domină partea de jos a orașului. A fost ridicat odată cu zidul, și a suferit mult din cauza cutremurelor și a incendiilor, în urma cărora a fost mereu refăcut. În 1583 a avut loc cea mai importantă reconstruire. Turnul Cositorarilor, împreună cu Turnul cu ceas domină partea de jos a orașului. A fost ridicat odată cu zidul, și a suferit mult din cauza cutremurelor și a incendiilor, în urma cărora a fost mereu refăcut. În 1583 a avut loc cea mai importantă reconstruire.Acum are o înălțime de 25 m, bază dreptunghiulară, trunchi de forma pentagonală, urmat de ultimul etaj octogonal, și un acoperiș hexagonal cu laturi inegale. Ultimul etaj, este lărgit pe console, are guri de aruncare și deschizături pentru arhebuze și puști. În fața turnului se află cel mai bine păstrat bastion. Zidul de apărare se prelungește apoi până la Liceul Joseph Haltrich. Turnul Cositorarilor este legat de Turnul Tăbăcarilor prin Galeria Arcașilor, formând o linie defensivă puternică în vederea apărării părții de S-V a orasului.",
+        "position": {
+            "lat": 46.218381564476175,
+            "long": 24.792264184851884
+        },
+        "mainImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Turnul_Cositorarilor_Sighisoara.jpg/1280px-Turnul_Cositorarilor_Sighisoara.jpg"
+    },{
+        "id": 4,
+        "title": "Turnul Fierarilor",
+        "description": "Turnul Fierarilor domină cu masivitatea sa întreaga latură de nord-est a Cetăţii Sighişoarei. Planimetric el are o dezvoltare dreptunghiulara, iar volumetric una paralelipipedică, dezvoltată pe trei nivele. El este construit sub impulsul primarului M. Eisenburger, în prima jumătate a secolului al XVII-lea, şi ava un rol de flancare, fiind lipit de vechiul zid al cetăţii. Treptat, odată cu evoluţia tehnicilor miliatre, el îşi pierde din importanţa strategică fiind închiriat ca depozit, pentru ca odată cu anul 1874 să devină remiză de pompieri.",
+        "position": {
+            "lat": 46.21975029011702,
+            "long": 24.793974027179377
+        },
+        "mainImg": "https://sighisoaraonline.com/content/wp-content/uploads/2020/07/received_2990779704354039_copy_1600x1066.jpeg"
+    },{
+        "id": 5,
+        "title": "Scara Acoperita",
+        "description": "Scara Acoperită este situată în capătul sudic al străzii Şcolii. Ea a fost construită în anul 1654, în timpul primarului J. Both. În forma sa iniţială, conform descrierilor, ea ar fi avut 300 de trepte şi fiind acoperită cu şindrilă. În anul 1842 a fost modificată, ea beneficiind de acum de fundament de zidărie, iar structura scărilor suferă şi ea schimbări. Numărul treptelor se reduce la 178, însă apar zonele de platformă dintre ele. Ea păstrează într-o mare măsură aspectul arhitecturii tradiţionale săseşti cu influenţele sale rurale.",
+        "position": {
+            "lat": 46.21871089320852,
+            "long": 24.791346640670884
+        },
+        "mainImg": "http://zigzagprinromania.com/blog/wp-content/uploads/2017/05/logo-6134-1024x683.jpg"
+    },{
+        "id": 6,
+        "title": "Restaurant Hula Danes",
+        "description": "La Domeniul Dracula Daneș te încântă peisaje transilvănene remarcabile, le poți admira de pe terasele Domeniului, de la piscina sau când ești într-o drumeție călare. Savurezi specialități culinare internaționale și locale sau descoperi fascinanta lume a echitației creată în jurul calului, într-un stil autentic ardelenesc. Vino să iei o pauză de la viața ‘grăbită’ și tehnologizată de azi, să îți încarci bateriile petrecându-ți timpul făcând echitație la manejul din Centrul Ecvestru sau în împrejurimile Daneșului. O zonă deosebit de pitorească este și Valea Stejăreni păzită de Hanul Dracula, la 6 km de Sighișoara și 5 km de Pensiunea Dracula. Aici îți e garantată o vacanță departe de griji, un loc unde schimbi telefonul mobil cu hațurile de călărie, blocul cu o pădure magnifică și te bucuri de clipele minunate petrecute în sânul naturii. Daca vrei să rămâi în interiorul Domeniului poți admira animale sălbatice și domestice sau stâna amenajată de la Han sau poți asista la spectacole ecvestre în marele manej acoperit.",
+        "position": {
+            "lat": 46.22492710812081,
+            "long": 24.75294878913054
+        },
+        "mainImg": "https://dracul.ro/wp-content/uploads/2016/03/Pensiunea-Dracula-Dane%C5%9F6.jpg"
+    },{
+        "id": 7,
+        "title": "Platoul Breite",
+        "description": "Cu un aer misterios, copaci scorburosi si pe alocuri deformati, Rezervatia Breite te asteapta sa ii descoperi secretele si vietatile care traiesc in acest ecosistem unic in Europa: soparle, licheni si tot felul de insecte, ciocanitori, serpi, fluturi si broaste testoase. Fiecare specie a gasit aici mediul perfect pentru a se dezvolta, in ramasitele unui copac cazut la pamant, in scorburi, in zonele mlastinoase sau in ascunzisul pamantului. Daca ai ragazul sa parcurgi intreaga rezervatie, ai la dispozitie o harta turistica a intregului traseu, in care vei descoperi 13 puncte de interes. Vei sti astfel cand treci prin “Pasul Lupilor” (marcat pe harta la punctul 7), locul in care platoul se ingusteaza si apropie cat se poate de mult cele doua margini de padure. Daca ai noroc, in aceasta zona vei vedea izvorasul cu burta galbena, despre care aminteam mai devreme. La marginea padurii (marcata cu punctul 6) vei intalni cel mai batran stejar de pe Platoul Breite, care la cei aproape 800 de ani ai sai masoara 7,1m in circumferinta. Crede-ne pe cuvant cand spunem ca este o imagine cu adevarat impresionanta! In zona marcata pe harta cu cifra 9 (Zona D) exista una dintre putinele mlastini care au mai rezistat pe Platoul Breite, dar daca vrei sa vezi o zona speciala din punctul de vedere al biodiversitatii naturale, mergi pana in zona 12 (Zona F). Acolo te asteapta cateva plante rare (printre care sorbestrea si raculetul), dar si doua specii de reptile pentru care rezervatia inseamna “acasa” (sarpele de sticla si sarpele de casa).",
+        "position": {
+            "lat": 46.21214634978643,
+            "long": 24.767517923764093
+        },
+        "mainImg": "https://visitmures.com/storage/cGSnoeMnqeLFccqo3Qb6Dn8WWs7IpJfOhDJQvjNB.jpeg"
+    },{
+        "id": 8,
+        "title": "Manastirea Sfantul Dimitrie",
+        "description": "Manastirea Sighisoara este o manastire ortodoxa din judetul Mures. Asezata la o distanta de doar patru kilometri inspre vest de centrul orasului medieval Sighisoara, manastirea de calugari cu viata de obste este inchinata Sfantului Mare Mucenic Dimitrie, Izvoratorul de Mir, praznuit in ziua de 26 octombrie. Paraclisul manastirii are drept hram Izvorul Tamaduirii, praznuit anual, in prima vineri dupa Sfintele Pasti, numita Vinerea Luminata. La aceasta manastire se ajunge mergand pe drumul national 13 (drumul european 60), care face legatura intre orasele Brasov si Sighisoara, cale de 106 kilometri. Ajungandu-se la podul peste raul Tarnava, se coteste la stanga, iar mai apoi, se urmareste indicatorul spre manastire, cale de vreo patru kilometri. De asemenea, aici se poate ajunge si pe drumul national 14, care leaga intre ele localitatile Sibiu, Medias si Sighisoara, cale de 90 de kilometir, precum si pe drumul national 13 (drumul eruropean 60), care leaga intre ele localitatile Targu Mures si Sighisoara, cale de 52 de kilometri.",
+        "position": {
+            "lat": 46.188894324235854,
+            "long": 24.805586227178733
+        },
+        "mainImg": "http://manastireasighisoara.ro/wp-content/uploads/2010/06/Manastirea-Sighisoara.jpg"
+    },{
+        "id": 9,
+        "title": "Via Transilvanica",
+        "description": "Via Transilvanica este un traseu de drumeții de aproape 1000 de kilometri începând din nordul țării, în Bucovina, traversează Transilvania și se termină în sud, la Dunăre, în Drobeta Turnul Severin. În Sibiu, traversează partea de nord a județului, unind Sighișoara cu Medias și apoi continuând mai departe pe Valea Tarnavelor, până în județul Alba. Traseul poate fi traversat atât pe jos, cât și cu bicicleta sau călare. Este destinat pentru toți iubitorii de natură și drumeții, indiferent de condiția fizică. În județul Sibiu, Via Transilvanica are o lungime de aproape 100 de kilometri și face parte din sectorul numit Tera Saxonum, deoarece traversează zone care erau locuite de sași transilvăneni. Traseul trece prin păduri dense, pajiști, terenuri agricole, drumuri de țară și sate vechi șăsești.",
+        "position": {
+            "lat": 46.17554647233957,
+            "long": 24.807351010873923
+        },
+        "mainImg": "http://www.diaconescuradu.com/wp-content/uploads/2021/05/A7205010-2.jpg"
+    },{
+        "id": 10,
+        "title": "Medievala Fortress",
+        "description": "O cetate in padure unde evadezi in timp. Un loc sa te medievalezi. Ateliere diverse, Arta manuirii armelor medievale, Muzici si Teatru Medieval, Tabara Militara, Cai, Cavaleri, printese, intelepti... la Sighișoara în Adventure Land Vezi",
+        "position": {
+            "lat": 46.229805034756716,
+            "long": 24.794413318616826
+        },
+        "mainImg": "https://visitmures.com/storage/cetateasighisoara16.jpg"
+    },{
+        "id": 11,
+        "title": "Club Aventura",
+        "description": "Club Aventura Vila Franka din Sighişoara este parcul tematic ideal pentru cei care vor să se destindă în mijlocul naturii și să lase grijile în urmă. Aici, îți depășești frica și limitele, în siguranță! Te invităm cu drag la noul Club Aventura Sighișoara, din complexul Vila Franka, ce datează încă din anul 1897, când doi frați au pus bazele restaurantului care există și astăzi în locație. Aici vei avea ocazia să te distrezi parcurgând traseele aflate la înălțime, în copaci si să îți întreci limitele având parte de adrenalină în perfectă siguranță. La noi, ai la dispoziție 8 trasee de dificultate diferită și tiroliană. Le poți face în căteva ore.",
+        "position": {
+            "lat": 46.22924995484397,
+            "long": 24.793708893254315
+        },
+        "mainImg": "https://sighisoaraonline.com/content/wp-content/uploads/2019/10/71470496_2575923205784221_1174502847685853184_o.jpg"
+    },{
+        "id": 12,
+        "title": "Vila Franka",
+        "description": "Mulți oameni vizitează acest restaurant pentru a încerca ciorba gătită perfect și supa bună. Mulți vizitatori spun că chelnerii servesc aici cheri gustoase. Există o vedere minunată de la Camping Restaurant Vila Franka. Majoritatea oaspeților au observat că personalul este drăguț la acest loc. Serviciul rapid este ceva pe care oamenii îl evidențiază în comentariile lor. O serie de recenzenți presupun că prețurile sunt mici pentru ceea ce primești. Există o ambianță minunată și un decor elegant în acest loc. Acest restaurant a primit 4,2 de la sistemul de rating Google.",
+        "position": {
+            "lat": 46.22917451255552,
+            "long": 24.79469928725004
+        },
+        "mainImg": "https://sighisoaraonline.com/galerie-2014/FB_IMG_1594480094964.jpg"
+    },{
+        "id": 13,
+        "title": "Petofi Sandor",
+        "description": "Piața Sándor Petőfi este situată în orașul românesc Sighișoara, în centrul regiunii Transilvaniei. Este un spațiu public a cărui figură principală este monumentul celui mai recunoscut poet maghiar din istorie: Petőfi Sándor. Născut în 1823, Sándor a murit în bătălia de la Sighișoara luptând împotriva Armatei Imperiale Ruse, după ce a scris poetul revoluționar Nemzeti Dal (Cântecul național” în limba maghiară).",
+        "position": {
+            "lat": 46.22128293220064,
+            "long": 24.79240741936305
+        },
+        "mainImg": "https://live.staticflickr.com/65535/48380014581_43120bf69c_b.jpg"
+    },{
+        "id": 14,
+        "title": "Liceul Teoretic Joseph Haltrich Sighisoara",
+        "description": "Adjectivul 'de basm' nu ar putea defini la fel de bine un alt oraș. Odată ce ați pătruns în citadelă, vă veți simți de parcă ați fi făcut o călătorie înapoi în timp. Din Piața Cetății, Strada Școlii se îndreaptă către sud spre 'Scara acoperită', o scară din lemn acoperită... Scara datează din 1662 și a fost construită pentru elevii care frecventau Școala Germană, liceul de azi. Fortăreața din secolul al XIII-lea a Sighișoarei este situată în mijlocul orașului modern din vale, părând să plutească deasupra acestuia. Construită după înfricoșătorea invazie tătară din 1241-1242, ea adăpostește școli, biserici, muzee, primăria și hoteluri. Citadela este, de fapt, o parte perfect funcțională a orașului. În a nii de apogeu, fortăreața dispunea de 14 turnuri și bastioane (din care au rămas nouă) și trei rânduri concentrice de ziduri de apărare. Două porți păzesc intrarea în citadelă, una la răsărit si alta la apus.",
+        "position": {
+            "lat": 46.21777082180878,
+            "long": 24.791517684905894
+        },
+        "mainImg": "https://upload.wikimedia.org/wikipedia/commons/6/65/Liceul_Teoretic_Joseph_Haltrich_Sighisoara_-_panoramio.jpg"
+    },{
+        "id": 15,
+        "title": "Turnul Franghierilor",
+        "description": "Acest turn este unul din cele mai vechi edificii ale Sighisoarei, fiind si singurul turn locuit din cele pastrate pana azi. Turnul Franghierilor a fost ridicat pe zidurile vechii cetati si a fost distrus in anul 1241. Forma actuala o are din 1305 si este unul din putinele turnuri neatinse de incendiul din 1676. Din punct de vedere strategic, a facut parte din vechea fortificatie din varful dealului. Turnul Franghierilor din Sighisoara este unul dintre cele mai importante obiective turistice din Transilvania, obiectiv pe care nu ar trebui sa-l ratati daca va aflati in apropiere.",
+        "position": {
+            "lat": 46.2177461957085,
+            "long": 24.789976280868835
+        },
+        "mainImg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/c9/f9/c3/turnul-franghierilor.jpg?w=1200&h=1200&s=1"
+    },{
+        "id": 16,
+        "title": "Turnul Macelarilor",
+        "description": "Turnul Măcelarilor, construit în a doua jumătate a secolului XV, se află pe partea vestică a zidului înconjurător este unul dintre cele două turnuri de apărare a porții Törle, unde pe vremuri, în fiecare seară se făcea împărțirea turmelor. În fața sa a fost construit un bastion. Poziționat la poalele celei mai abrupte porțiuni ale dealului, a avut rol de apărare dinspre SV și NV al cetății. Prin forma sa hexagonală a avut câmp de tragere în toate direcțiile.",
+        "position": {
+            "lat": 46.21874508191524,
+            "long": 24.790099064255262
+        },
+        "mainImg": "https://www.traveleuropa.ro/upload/2012/10/19/1024x768/simple/YTowOnt9/766151eb9189ac5babd6272df6074618.jpg"
+    },{
+        "id": 17,
+        "title": "Turnul Cojocarilor",
+        "description": "Turnul Cojocarilor sau Turnul Blănarilor de pe partea vestică a zidului înconjurător este unul dintre cele două turnuri de apărare a porții Törle, unde pe vremuri, în fiecare seară se făcea împărțirea turmelor. A fost construit probabil la în secolul XV, și apărat de breasla cojocarilor. Incendiul din 1676 care a devastat aproape jumătate din localitate, a distrus și turnul, care a fost reparat, supraânălțat și a căpătat această formă. Este un turn cu bază pătrată și 4 etaje. Ultimul etaj iese în consolă, și se pot observa guri de păcură.",
+        "position": {
+            "lat": 46.21896433120004,
+            "long": 24.790222917625886
+        },
+        "mainImg": "https://www.virtualtravelguide.ro/images/UsBTCPszwG41cDPB-turnul-cojocarilor-sighisoara.jpg"
+    },{
+        "id": 18,
+        "title": "Turnul Croitorilor",
+        "description": "Turnul Croitorilor construit în secolul XIV este situat în partea opusă Turnului cu ceas și străjuiește a doua poartă de acces în cetate. Turnul Croitorilor construit în secolul XIV este situat în partea opusă Turnului cu ceas și străjuiește a doua poartă de acces în cetate.Inițial, cele două turnuri aveau, aceiași formă, însă în timpul marelui incendiu, pulberăria depozitată în Turnul croitorilor a explodat și a distrus în mare măsură turnul. Bolta porții dinspre nord s-a prăbușit și a fost zidită, în forma inițială, în 1935. Cele două ganguri carosabile ce străpung parterul turnului se puteau închide din ambele părți cu grilaje de fier. Partea superioară este prevăzută cu goluri de tragere și guri de aruncare.",
+        "position": {
+            "lat": 46.22021533862815,
+            "long": 24.791204313616113
+        },
+        "mainImg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/26/b3/ab/caption.jpg?w=1200&h=-1&s=1"
+    },{
+        "id": 19,
+        "title": "Turnul Tabacarilor",
+        "description": "Turnul Tăbăcarilor, ridicat în jurul secolelor XIII - XIV se află în partea sud-vestică a cetății. Este un turn modest față de vecinul său, Turnul Cositorarilor de care este legat prin Galeria Arcașilor. Are plan pătrat, cu dimensiuni reduse, acoperiș înclinat întro singură direcție, și în perete se pot observa guri de tragere. A fost construit cu scopul de a asigura apărarea curții interioare a Turnului cu Ceas.",
+        "position": {
+            "lat": 46.21858390898911,
+            "long": 24.792553740412362
+        },
+        "mainImg": "https://www.romanianresorts.ro/pics/3/img/turnul-cositorarilor-sighisoara_366.jpg"
+    },{
+        "id": 20,
+        "title": "Turnul Cizmarilor",
+        "description": "Turnul Cismarilor se află la capătul de nord al zidului cetății. Datează din 1521, și a fost fortificat în 1603. În 1606 turmul îngrijit de breasla cismarilor a fost parțial distrus, dar a fost reconstruit în 1650. În timpul incendiului din 1676 a fost distrus și reclădit în forma actuală în 1681. În fața turnului a existat și un bastion de artileria, care a fost demolat în 1648. Turnul Cismarilor se află la capătul de nord al zidului cetății. Datează din 1521, și a fost fortificat în 1603. În 1606 turmul îngrijit de breasla cismarilor a fost parțial distrus, dar a fost reconstruit în 1650.În timpul incendiului din 1676 a fost distrus și reclădit în forma actuală în 1681. În fața turnului a existat și un bastion de artileria, care a fost demolat în 1648.Cel mai scund dintre toate turnurile această construcție are un plan haxagonal, iar pe partea sudică a acoperișului are un turnuleț de pază. Turnul astăzi găzduiește redacția Jurnalului de Sighișoara și stația locală de radio, Radio Son Sighișoara.",
+        "position": {
+            "lat": 46.22127485848593,
+            "long": 24.79198362287271
+        },
+        "mainImg": "https://www.trecator.ro/wp-content/uploads/2021/05/Turnul-Cizmarilor-din-Sighisoara-01.jpg"
+    }],
+    "subcontent": [
+        {
+            "title": "Locuri populare",
+            "description":"Aici se afla locurile populare orasului Sghisoara.",
+            "content": [1,3,4]
+        },
+        {
+            "title": "Cetate",
+            "description":"Cetatea Sighişoara, considerată cea mai mare cetate medievală din Europa locuită fără întrerupere, dar şi cea mai bine păstrată cetate orășenească din Transilvania, cel mai atrăgător şi mai complet ansamblu urban medieval din România, devenit patrimoniu mondial al UNESCO din anul 1999.",
+            "content": [1,2,3,4,5,13,14]
+        },
+        {
+            "title": "Turnurile Cetății Sighișoara",
+            "description":"Cetatea este înconjurată de un zid de 930 m a cărui înălțime inițială era de ca. 4m. Ulterior, înălțimea zidului a fost mărită în unele locuri până la 14 m. Zidul a fost construit între secolul al XIV-lea și al XVII-lea ca protecție împotriva atacurilor turcești. Zidul avea 14 turnuri, din care 9 se păstrează până în ziua de azi. Turnurile funcționau ca sedii ale diferitelor bresle meșteșugărești.",
+            "content": [0,1,2,3,4,12,13,14,16,19]
+        },
+        {
+            "title": "Natura Sighisorii",
+            "description":"Sighisoara are locatii in natura care trebuie neaparat vizitate.",
+            "content": [8,7,6,11,10,9]
+        },
+        {
+            "title": "Toate punctele de atractie",
+            "description":"Aici se afla oate punctele de atractie din Sighisoara disponibile pe aplicatie.",
+            "content": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
+        }
+    ],
+    "position": {
+        "lat": 46.21970744437953,
+        "long": 24.792280215266267
+    },
+    "comments": [{
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+    }]
+}
