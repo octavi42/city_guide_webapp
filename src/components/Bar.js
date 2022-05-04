@@ -1,8 +1,7 @@
 import React, {useEffect, useState} from "react";
 import "../css/expand.css";
 import "../css/bar.css";
-import { Link, useParams } from "react-router-dom";
-import { motion, useAnimation } from 'framer-motion';
+import { Link } from "react-router-dom";
 import Explore from "./Explore";
 import PostData from "./../db.json"
 
