@@ -32,7 +32,7 @@ const Bar = (props) => {
       setLat(PostData.position.lat);
       setLong(PostData.position.long);
 
-      await fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&units=metric&appid=da711b7d3d0c5cb0a8309c204fe02aa7`)
+      await fetch(`https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${long}&units=metric&appid=${process.env.REACT_APP_WEATHER_APY_KEY}`)
       .then(res => res.json())
       .then(result => {
         setData(result)
